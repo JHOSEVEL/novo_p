@@ -1,0 +1,1 @@
+bem desse vez deu certo todos os passos do git
